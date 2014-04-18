@@ -1,0 +1,3 @@
+pod 'GHUnitIOS', '~> 0.5.8'
+
+pod 'OCMock', '~> 2.2.3'
