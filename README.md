@@ -1,4 +1,4 @@
 HumbleHunter
 ============
 
-A GHUnit demo for Mac OS and A GHUnit and OCMock demo for iOS
+A GHUnit demo for Mac OS X and A GHUnit and OCMock demo for iOS
